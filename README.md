@@ -16,5 +16,4 @@ You can click the Preview link to take a look at your changes.
 
  <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" /> 
  
-![BEPb's github stats](https://github-readme-stats.vercel.app/api?
 ![Profile views](https://gpvc.arturio.dev/DionysisPap)
