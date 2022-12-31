@@ -5,9 +5,10 @@
 <p align="center">
     <a href="https://github.com/DionysisPap/DionysisPap"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.11-FF1493.svg"></a>
+    <a href="https://github.com/DionysisPap/DionysisPap/graphs/profile-views"><img src="https://img.shields.io/githun/profile-views/DionysisPap/DionysisPap.svg?logo=github"></a>
     <a href="https://github.com/DionysisPap/DionysisPap/graphs/contributors"><img src="https://img.shields.io/github/contributors/DionysisPap/DionysisPap?color=blue"></a>
-    <a href="https://github.com/BEPb/BEPb/stargazers"><img src="https://img.shields.io/github/stars/DionysisPap/DionysisPap.svg?logo=github"></a>
-    <a href="https://github.com/BEPb/BEPb/network/members"><img src="https://img.shields.io/github/forks/DionysisPap/DionysisPap.svg?color=blue&logo=github"></a>
+    <a href="https://github.com/DionysisPap/DionysisPap/stargazers"><img src="https://img.shields.io/github/stars/DionysisPap/DionysisPap.svg?logo=github"></a>
+    <a href="https://github.com/DionysisPap/DionysisPap/network/members"><img src="https://img.shields.io/github/forks/DionysisPap/DionysisPap.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=DionysisPap.DionysisPap" alt="visitors"/>   
 </p>
 
@@ -21,3 +22,13 @@
 
 
 ![Profile views](https://gpvc.arturio.dev/DionysisPap)
+
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+[![DionysisPap's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DionysisPap&theme=github-compact)](https://github.com/DionysisPap/github-readme-activity-graph)
+
+| .                                                                                                                                       | .                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
+| ![DionysisPap's github stats](https://github-readme-stats.vercel.app/api?username=DionysisPap&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=DionysisPap&theme=radical&layout=compact) |
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DionysisPap"></img>
