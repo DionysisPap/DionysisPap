@@ -4,7 +4,7 @@
 <!--   my-icons -->
 <p align="center">
     <a href="https://github.com/DionysisPap/DionysisPap"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a>
+    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.11-FF1493.svg"></a>
     <a href="https://github.com/DionysisPap/DionysisPap/graphs/contributors"><img src="https://img.shields.io/github/contributors/DionysisPap/DionysisPap?color=blue"></a>
     <a href="https://github.com/BEPb/BEPb/stargazers"><img src="https://img.shields.io/github/stars/DionysisPap/DionysisPap.svg?logo=github"></a>
     <a href="https://github.com/BEPb/BEPb/network/members"><img src="https://img.shields.io/github/forks/DionysisPap/DionysisPap.svg?color=blue&logo=github"></a>
