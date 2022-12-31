@@ -5,7 +5,6 @@
 <p align="center">
     <a href="https://github.com/DionysisPap/DionysisPap"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.11-FF1493.svg"></a>
-    <a href="https://github.com/DionysisPap/DionysisPap/graphs/profile-views"><img src="https://img.shields.io/githun/profile-views/DionysisPap/DionysisPap.svg?logo=github"></a>
     <a href="https://github.com/DionysisPap/DionysisPap/graphs/contributors"><img src="https://img.shields.io/github/contributors/DionysisPap/DionysisPap?color=blue"></a>
     <a href="https://github.com/DionysisPap/DionysisPap/stargazers"><img src="https://img.shields.io/github/stars/DionysisPap/DionysisPap.svg?logo=github"></a>
     <a href="https://github.com/DionysisPap/DionysisPap/network/members"><img src="https://img.shields.io/github/forks/DionysisPap/DionysisPap.svg?color=blue&logo=github"></a>
