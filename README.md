@@ -1,5 +1,5 @@
 
-<h1> Welcome to my profile! 👋👨‍💻<h1>
+# Welcome to my profile! 👋👨‍💻
 
 <!--   my-icons -->
 <p align="center">
@@ -9,7 +9,7 @@
     <a href="https://github.com/BEPb/BEPb/stargazers"><img src="https://img.shields.io/github/stars/DionysisPap/DionysisPap.svg?logo=github"></a>
     <a href="https://github.com/BEPb/BEPb/network/members"><img src="https://img.shields.io/github/forks/DionysisPap/DionysisPap.svg?color=blue&logo=github"></a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=DionysisPap.DionysisPap" alt="visitors"/>   
-</p><br>
+</p>
 
 <!--   my-skils -->
 | Property                                        | Data                                     |
