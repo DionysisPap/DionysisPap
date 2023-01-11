@@ -8,7 +8,7 @@
     <a href="https://github.com/DionysisPap/DionysisPap/graphs/contributors"><img src="https://img.shields.io/github/contributors/DionysisPap/DionysisPap?color=blue"></a>
     <a href="https://github.com/DionysisPap/DionysisPap/stargazers"><img src="https://img.shields.io/github/stars/DionysisPap/DionysisPap.svg?logo=github"></a>
     <a href="https://github.com/DionysisPap/DionysisPap/network/members"><img src="https://img.shields.io/github/forks/DionysisPap/DionysisPap.svg?color=blue&logo=github"></a>
-    <!--- <img src="https://visitor-badge.laobi.icu/badge?page_id=DionysisPap.DionysisPap" alt="visitors"/>  ---> 
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=DionysisPap.DionysisPap" alt="visitors"/>
 </p>
 
 <!--   my-skils -->
